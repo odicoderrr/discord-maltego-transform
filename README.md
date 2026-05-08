@@ -102,14 +102,13 @@ Manage → Transforms
 
 Откроется окно добавления трансформа. Заполните следующие поля:
 
-Поле	            Значение
-Display Name	    Discord User Info
-Description	Get   information about Discord user by ID
-Transform Type	  Local
-Command	python
-Parameters	      "C:\путь\к\папке\discord_transform.py" %value%
-Working Directory	 C:\путь\к\папке\
-Timeout (ms)	     30000
+Display Name - Discord User Info
+Description	Get - Get information about Discord user by ID
+Transform Type - Local
+Command - python
+Parameters - "C:\путь\к\папке\discord_transform.py" %value%
+Working Directory - C:\путь\к\папке\
+Timeout (ms) - 30000
 
 Важно:
 
@@ -160,4 +159,3 @@ Timeout (ms)	     30000
     Проверьте настройки
 
     Нажмите "Finish"
-
